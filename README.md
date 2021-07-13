@@ -48,4 +48,4 @@ Interview Difficulty
 
 Benefits
 
-Please replace your Glassdoor username and password at line# 88 and 89 respectively in webscraping_glassdoor.py file. And also, mention the path for for your input and output file.
+PS : Please replace your Glassdoor username and password at line# 88 and 89 respectively in webscraping_glassdoor.py file. And also, mention the path for for your input and output file.

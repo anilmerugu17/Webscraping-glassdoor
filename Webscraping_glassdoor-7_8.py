@@ -85,8 +85,8 @@ chrome_options = webdriver.chrome.options.Options()
 driver = webdriver.Chrome(ChromeDriverManager().install(), options=chrome_options)
 driver.maximize_window()
 
-email = 'webscraping7@gmail.com'
-pwd = 'WebScraping@7'
+email = 'example@gmail.com'  #Replace username and password with your Glassdoor username and password
+pwd = 'examplepassword'
 
 # Log into account
 gd_login(driver, LOGIN_URL, email, pwd)
